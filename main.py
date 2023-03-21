@@ -5,3 +5,5 @@ class Elemento:
     nombre: str
 
 
+
+class Conjunto:
